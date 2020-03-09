@@ -20,4 +20,7 @@ public class PlayerNavMover : NavMeshMover
     {
         MoveTo(selectionData.point);
     }
+
+
+    
 }
